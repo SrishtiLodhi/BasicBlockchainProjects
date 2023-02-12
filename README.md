@@ -9,6 +9,7 @@ A collection of certain projects that implements blockchain concepts using solid
 
 The wallet owners can : 
 -> submit a transaction, approve and revoke approval of pending transactions. 
+
 -> anyone can execute a transaction after enough owners have approved it. 
 
 3. Lottery organization through smart contract 
