@@ -8,6 +8,7 @@ A collection of certain projects that implements blockchain concepts using solid
  2. Multi-sig wallet
 
 The wallet owners can : 
+
 -> submit a transaction, approve and revoke approval of pending transactions. 
 
 -> anyone can execute a transaction after enough owners have approved it. 
@@ -15,5 +16,7 @@ The wallet owners can :
 3. Lottery organization through smart contract 
 
 -> Participants must have a wallet & participants >= 3
+
 -> Participants can transfer ETH more than once but the transferred ether must be > 1 ETH. 
+
 -> contract will be reset once the round is finished. 
